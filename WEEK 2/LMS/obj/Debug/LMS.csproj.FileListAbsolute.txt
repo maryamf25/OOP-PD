@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Maryam\semester2\OOP LAB\WEEK 2\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Maryam\semester2\OOP LAB\WEEK 2\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Maryam\semester2\OOP LAB\WEEK 2\LMS\bin\Debug\LMS.exe.config
+C:\Users\HP\Desktop\Maryam\semester2\OOP LAB\WEEK 2\LMS\bin\Debug\LMS.exe
+C:\Users\HP\Desktop\Maryam\semester2\OOP LAB\WEEK 2\LMS\bin\Debug\LMS.pdb
+C:\Users\HP\Desktop\Maryam\semester2\OOP LAB\WEEK 2\LMS\obj\Debug\LMS.exe
+C:\Users\HP\Desktop\Maryam\semester2\OOP LAB\WEEK 2\LMS\obj\Debug\LMS.pdb

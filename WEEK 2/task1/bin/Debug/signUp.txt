@@ -1,0 +1,2 @@
+maryam,12345678,Admin
+c,cccccccc,Customer
